@@ -1,4 +1,4 @@
-→ [German](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/README_de.md)
+→ [DE](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/README_de.md)
 # Getting to know each other – _Project Group & Regulars’ Table_
 
 Let’s start from scratch! How do we want to study, work, and create together? In my first semester as a professor of communication design, I would like to find that out with you and create spaces for getting to know each another—by working together right away! Therefore, I would like to propose two initiatives:
