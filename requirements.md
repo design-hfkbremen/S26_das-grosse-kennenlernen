@@ -8,9 +8,9 @@ Additionally, being late three times (over 10 minutes late) will be counted as o
 ### Active Participation
 Active participation involves the following tasks:
 
-- protocol of one input session (DO 10–12:00)
-- organization of one _Regular’s Table_
-- two-weekly consultations in small groups 
+- [protocol](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/protocols.md) of one input session (DO 10–12:00)
+- organization of one _[Regular’s Table](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/stammtisch.md)_
+- two-weekly [consultations](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/consultations.md) in small groups 
 - individual project (presentation on 18.06., documentation by 09.06.)
 
 # Anforderungen [DE]
@@ -23,7 +23,7 @@ Dreimaliges Zuspätkommen (mehr als 10 Minuten Verspätung) wird als eine Abwese
 ### Aktive Mitarbeit
 Zur aktiven Mitarbeit zählen folgende Aufgaben:
 
-- Protokoll eines Input-Termins (DO 10-12:00)
-- Organisation eines _Stammtisches_
-- Konsultationen in Kleingruppen, alle 2 Wochen
+- [Protokoll](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/protocols.md) eines Input-Termins (DO 10-12:00)
+- Organisation eines _[Stammtisches](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/stammtisch.md)_
+- [Konsultationen](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/consultations.md) in Kleingruppen, alle 2 Wochen
 - Individuelles Projekt (Präsentation am 18.06, Abgabe der Dokumentation 09.06.)
