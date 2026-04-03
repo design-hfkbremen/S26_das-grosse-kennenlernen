@@ -1,7 +1,7 @@
 # Protocols
 
 Let’s document our input sessions, so we can make a small zine with resources on how to work & study together – for ourselves or other interested people!
-For each input (THU 10–12:00), 2 students document the outcome of our session. 
+For each input (THU 10–12:00), 2-3 students create one documentation of the outcome of our session. 
 It doesn’t have to be super elaborate, just take what you feel was most important and layout it into a A4. 
 
 ### Format
