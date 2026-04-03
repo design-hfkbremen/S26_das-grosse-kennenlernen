@@ -3,6 +3,14 @@
 
 Let’s start from scratch! How do we want to study, work, and create together? In my first semester as a professor of communication design, I would like to find that out with you and create spaces for getting to know each another—by working together right away! Therefore, I would like to propose two initiatives:
 
+## Links
+- [Course Schedule](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/schedule.md)
+- [Requirements](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/requirements.md)
+- [Protocol](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/protocols.md)
+- [Consultations](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/consultations.md)
+- [HBK x HfK exchange](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/hbk_hfk-exchange.md)
+- [Stammtisch](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/stammtisch.md)
+
 ## Project Group – Supervision of independent & applied projects
 The _Project Group_ is a practice-oriented format for self-initiated and applied design projects. Do you have your own project that you need feedback on? Do you know anyone who needs a poster? And under what conditions do we want to design?
 
@@ -41,3 +49,5 @@ The _Project Group_ runs continuously throughout Block A & B [09.04.–25.06.] a
 - 04.06.
 - 18.06.
 - 25.06.
+
+
