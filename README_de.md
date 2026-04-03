@@ -2,6 +2,14 @@
 
 Alles auf Anfang! Wie wollen wir zusammen studieren, arbeiten und gestalten? In meinem ersten Semester als Professorin für Kommunikationsgestaltung möchte ich das mit euch herausfinden und Räume zum Kennenlernen schaffen – am besten, indem wir direkt zusammen ins Machen kommen! Dazu möchte ich zwei Initiativen anstoßen:
 
+## Links
+- [Kurs Schedule](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/schedule.md)
+- [Anforderungen](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/requirements.md)
+- [Protokoll](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/protocols.md)
+- [Konsultationen](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/consultations.md)
+- [HBK x HfK Austausch](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/hbk_hfk-exchange.md)
+- [Stammtisch](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/stammtisch.md)
+
 ## Projektgruppe – Betreuung freier & angewandter Projekte
 Die Projektgruppe ist ein praxisorientiertes Format für selbstinitiierte und angewandte Gestaltungsprojekte. Hast du ein eigenes Projekt, zu dem du Feedback brauchst? Kennst du wen, der noch ein Plakat braucht? Und unter welchen Bedingungen wollen wir gestalten?
 
