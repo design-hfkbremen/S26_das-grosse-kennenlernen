@@ -11,7 +11,7 @@ Each _Stammtisch_ is self-organized by 2-3 students.
 ### To Do for each _Stammtisch_
 - Inspiration-Slot [10min]
 - Topic [1h40]
-- Announcement _(at least on the the Tuesday prior)_
+- Announcement _(at least on the Tuesday prior)_
   - Poster
   - Instagram _(e.g. Story)_
 - Snacks
