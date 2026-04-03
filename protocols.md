@@ -8,4 +8,4 @@ It doesn’t have to be super elaborate, just take what you feel was most import
 - A4, b/w
 - plus visual documentation (e.g. photos)
 
-Sign up for a session to document [here]([url](https://hfkbremen.sharepoint.com/:x:/s/DasgroeKennenlernenProjektgruppeStammtischSoSe26/IQBMULg5SaKSQIeml0MEI_yhAWrEXkg9ad17qmJ07Nt0fh0?e=P9nNVn)).
+Sign up for a session to document [here](https://hfkbremen.sharepoint.com/:x:/s/DasgroeKennenlernenProjektgruppeStammtischSoSe26/IQBMULg5SaKSQIeml0MEI_yhAWrEXkg9ad17qmJ07Nt0fh0?e=P9nNVn).
