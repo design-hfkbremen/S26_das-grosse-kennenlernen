@@ -2,8 +2,8 @@
 
 ### Times
 - 10–12:00 | Inputs & Workshops
-- 13–17:00 | Project discussions & co-working
-- 17–19:00 | Regulars’ Table – open for all
+- 13–17:00 | Co-working & [Consultations](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/consultations.md)
+- 17–19:00 | [Stammtisch / Regulars’ Table](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/stammtisch.md) – open for all
 
 ### Dates
 |  | DATE | TOPIC |
