@@ -11,7 +11,7 @@ Active participation involves the following tasks:
 - [protocol](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/protocols.md) of one input session (DO 10–12:00)
 - organization of one _[Regular’s Table](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/stammtisch.md)_
 - two-weekly [consultations](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/consultations.md) in small groups 
-- individual project (presentation on 18.06., documentation by 09.06.)
+- individual project (presentation on 25.06., documentation by 09.06.)
 
 # Anforderungen [DE]
 Anwesenheit in den Blöcken A und B [Do 10–19 Uhr], aktive Mitarbeit und Bearbeitung individueller Projekte.
@@ -23,7 +23,7 @@ Dreimaliges Zuspätkommen (mehr als 10 Minuten Verspätung) wird als eine Abwese
 ### Aktive Mitarbeit
 Zur aktiven Mitarbeit zählen folgende Aufgaben:
 
-- [Protokoll](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/protocols.md) eines Input-Termins (DO 10-12:00)
+- [Protokoll](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/protocols.md) einer Input-Session (DO 10-12:00)
 - Organisation eines _[Stammtisches](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/stammtisch.md)_
 - [Konsultationen](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/consultations.md) in Kleingruppen, alle 2 Wochen
-- Individuelles Projekt (Präsentation am 18.06, Abgabe der Dokumentation 09.06.)
+- Individuelles Projekt (Präsentation am 25.06, Abgabe der Dokumentation 09.06.)
