@@ -12,7 +12,8 @@
        - _[Stammtisch / Regular’s Table](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/stammtisch.md)_
        - [Consultations](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/consultations.md) in small groups
        - Individual project (presentation on 25.06., documentation by 09.06.)
-    3. [Survey](https://hfkbremen.sharepoint.com/:f:/s/DasgroeKennenlernenProjektgruppeStammtischSoSe26/IgC4xwtFn9UBS5EkjWQYieG1AXAwdad0i6xh_PQ21maJD9E?nav=MzRiN2Y4YmEtMDc1ZS00ZWYzLWIyZWYtMmIwNDE0YzRlM2E1) 
+     - [HBK x HfK exchange](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/hbk_hfk-exchange.md) 
+     - [Survey](https://hfkbremen.sharepoint.com/:f:/s/DasgroeKennenlernenProjektgruppeStammtischSoSe26/IgC4xwtFn9UBS5EkjWQYieG1AXAwdad0i6xh_PQ21maJD9E?nav=MzRiN2Y4YmEtMDc1ZS00ZWYzLWIyZWYtMmIwNDE0YzRlM2E1) 
   
 </details>
 
