@@ -7,8 +7,8 @@
 - [Protocols](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/protocols.md)
 
 ## References [10:15–10:30]
-_see [Methods for feedback](https://www.ap-arts.be/sites/default/files/Methods%20for%20feedback-compilation%20by%20Michiel%20Vandevelde.pdf), gathered by Michiel Vandevelde [AP Arts]
-_
+
+_see [Methods for feedback](https://www.ap-arts.be/sites/default/files/Methods%20for%20feedback-compilation%20by%20Michiel%20Vandevelde.pdf), gathered by Michiel Vandevelde [AP Arts]_
 
 - DasArts	Feedback method w/ different roles and formats
   - first impressions
@@ -23,8 +23,8 @@ _
 - Rescript
 - Impersonation Game
 - [Critical response process](https://videomole.tv/wp-content/uploads/2022/11/LL2003.pdf) [see [video](https://www.youtube.com/watch?v=nFugLSJX_Nc)]
-- ...
 - Feedback without words (e.g. visual corrections)
+- ... [add your own feedback method]
 
 ## Exercise 1 [10:30–11:00]
 Let’s crowdsource our views on feedback in [this document](https://hfkbremen.sharepoint.com/:w:/s/DasgroeKennenlernenProjektgruppeStammtischSoSe26/IQBInenVAkZWQ5jqia-mqdTMAe8_O9djj6VLMruQfwSmKQI?e=QQCX1x): 
@@ -42,7 +42,7 @@ Let’s crowdsource our views on feedback in [this document](https://hfkbremen.s
 ## Exercise 2 [11–12:00]
 Try out one of the feedback methods [groups of 3]: 
 
-1. Research one of the feedback methods [10min]
+1. Research one of the feedback methods and set the rules in advance [10min]
 2. Present a work-in-progress [e.g. use a draft version of a previous project] [10min]
 3. Feedback session [30min]
 
