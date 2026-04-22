@@ -6,9 +6,6 @@
 - [Protocols](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/protocols.md) > from last time
 - [Stammtisch](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/stammtisch.md)
 - Plan [HBK x HFK](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/hbk_hfk-exchange.md)  [11:45–12:00]
-  - [Accomodation List](https://hfkbremen.sharepoint.com/:x:/s/DasgroeKennenlernenProjektgruppeStammtischSoSe26/IQAwSfSds1bcRaMUVMp6VXDEAQGquie-0Vx7DdIcSvgcNM8?e=nPnaSr)
-  - Travel
-  - Budget
 
 ## References [10:15–10:30]
 - [First, Then, Repeat ... – Anja Groten](https://firstthenrepeat.hackersanddesigners.nl/#Workshop_scripts_in_practice)
@@ -36,3 +33,7 @@ Write your own workshop script (Stammtisch or Skill-Share related) [based on Anj
 Let’s share the scripts at 11:30
 
 ## Plan Braunschweig [11:45]
+Plan [HBK x HFK](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/hbk_hfk-exchange.md)  [11:45–12:00]
+- [Accomodation List](https://hfkbremen.sharepoint.com/:x:/s/DasgroeKennenlernenProjektgruppeStammtischSoSe26/IQAwSfSds1bcRaMUVMp6VXDEAQGquie-0Vx7DdIcSvgcNM8?e=nPnaSr)
+- Travel
+- Budget
