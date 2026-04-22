@@ -5,6 +5,7 @@
 - Short Intro
 - [Protocols](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/protocols.md) > from last time
 - [Stammtisch](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/stammtisch.md)
+- [Consultations](https://hfkbremen.sharepoint.com/:x:/s/DasgroeKennenlernenProjektgruppeStammtischSoSe26/IQAX-JwytzF5RLDHo3VqMJbyAfjf91LvYw8JvxOAfw1iBR4?e=1D06gd)
 - Plan [HBK x HFK](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/hbk_hfk-exchange.md)  [11:45–12:00]
 
 ## References [10:15–10:30]
