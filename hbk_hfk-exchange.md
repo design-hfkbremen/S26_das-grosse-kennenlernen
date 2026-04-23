@@ -16,11 +16,23 @@ More infos coming soon.
   - HfK students hosting HBK students [08.–10.06.]?
  
 ## Travels
-**MONDAY 11.05.** | Bremen > Braunschweig
-...
+### MONDAY 11.05. | Bremen > Braunschweig
 
-**WEDNESDAY 13.05.** | Braunschweig > Bremen
-...
+> [!IMPORTANT]
+> **MEETING POINT / TIME**
+> 09:00 | Bremen Hbf | Gleis 1
+
+<img width="1002" height="804" alt="image" src="https://github.com/user-attachments/assets/48d45cd9-6d93-4a77-9527-8be04c1d5081" />
+
+
+Verbindung am Mo. 11.05.2026
+- von Bremen Hbf, Abfahrt 09:17 Uhr Gl. 1 mit 4411
+- nach 38118 Braunschweig, Johannes-Selenka-Platz 1, Ankunft 12:02 Uhr mit Fußweg
+- [https://www.bahn.de/buchung/start?vbid=3544c7d5-02e1-4bf4-aa89-082f00eaa375](https://www.bahn.de/buchung/start?vbid=3544c7d5-02e1-4bf4-aa89-082f00eaa375)
+
+### WEDNESDAY 13.05. | Braunschweig > Bremen
+
+Eigenständige Rückfahrt, stündlich möglich. 
 
 ## Timetable
 **MONDAY 11.05.**
