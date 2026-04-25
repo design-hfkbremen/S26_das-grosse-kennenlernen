@@ -3,7 +3,7 @@
 ## Admin [10–10:30]
 - [Protocol](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/protocols.md)
 - [Stammtisch](https://hfkbremen.sharepoint.com/:w:/s/DasgroeKennenlernenProjektgruppeStammtischSoSe26/IQBkq7iPVd1RTJDeIVB2kei0AUvVh4GbS0SQVK2UhSKqZKQ?e=f3Osht)
-- Lists (Artist- / Keylist)
+- [Lists (Artist- / Keylist)](https://hfkbremen.sharepoint.com/:x:/s/DasgroeKennenlernenProjektgruppeStammtischSoSe26/IQAmedpUiMKaQKKT6Kl5oCrjAczwu34VgsX5aKDGFFh0apU?e=d92yn7)
 - HBK x HFK
 - [Interims / Final Presentation](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/schedule.md) [07.05. / 25.06.]
 - [Consultations](https://hfkbremen.sharepoint.com/:w:/s/DasgroeKennenlernenProjektgruppeStammtischSoSe26/IQBkq7iPVd1RTJDeIVB2kei0AUvVh4GbS0SQVK2UhSKqZKQ?e=f3Osht)
