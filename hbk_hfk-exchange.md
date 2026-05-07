@@ -53,4 +53,4 @@ Eigenständige Rückfahrt, stündlich möglich.
 - Schlafsack, Handtuch, etc.
 - wetterfeste Kleidung (Regenschirm, regenfeste Schuhe etc.), weil wir beim Workshop am MO draußen spazieren, selbst bei Regen 
 - Material zum Skizzieren (Stifte, Knete, Marker etc.)
-
+- Computer (für digitale Nachbearbeitung)
