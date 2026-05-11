@@ -36,18 +36,41 @@ Eigenständige Rückfahrt, stündlich möglich.
 
 ## Timetable
 **MONDAY 11.05.**
-- 12:00 | Bremen > Braunschweig
-- 13:00 | Lunch
-- 14–18:00 | “Type Walk” workshop w/ HBK Basics & Luzia Rux
-- 18:00 | Shared meal
+- 12–13:00 | Lunch
+- 13–13:30 | Vorstellung & Kennenlernen
+  - Sortieren nach Lieblingsfarbe, Schlafplätze, Buchstaben
+  - Sketch > Wie geht es dir? + Anfangsbuchstabe
+  - Gruppen je 3-4 P.
+- 14–16:00 | “Type Walk” workshop w/ HBK Basics & Luzia Rux
+  - Vorab: Regeln überlegen
+  - Navigation: Stadtspaziergang mit Regeln (je 15–30 Min)
+    - Buchstaben: 26 Buchstaben suchen und festhalten (Fotos, Skizze)
+    - Protokoll: Umgebung protokollieren (Struktur, Frottage, Skizze), Skizze des Weges
+- 16–17:00 | Nachbearbeitung HBK
+  - Ggf. digitale Nachbearbeitung in der HBK
+  - Scannen & Upload (Archiv für Font und Bremen bei Bedarf)
+  - aufhängen (2 im Raum, 2 in der Buchte 1. OG, 1 Buchte 2. OG, 1, Buchte Richtung Fotostudio)
+- 17:00 | Besprechung & gemeinsames Essen
 
 **TUESDAY 12.05.**
 - 10–17:00 | [Spaces for Orientation Symposium](https://www.instagram.com/p/DXEGLopDAu3/?img_index=2)
-- 17:00 – | MOGI Networking
+- 17:00 – | AULA Networking
 
 **WEDNESDAY 13.05.**
 - 10:00 | Braunschweig > Bremen
 - 19:00 | Katharina inaugural lecture
+
+## TYPE Walk
+Mögliche Regeln: 
+- da lang gehen, wo der geringste Widerstand ist. 
+- an der Ampel immer links
+- abwechselnd entscheiden
+- nach Zeichen suchen (Pfeile)
+- intuitiv
+- Pflasterung der Straße
+- Fahrzeug / Hund / Person folgen
+- ...
+
 
 ## What to bring
 - Schlafsack, Handtuch, etc.
