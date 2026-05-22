@@ -17,6 +17,6 @@
 | – | 11./12./13.05. | [Exchange w/ HBK Brunswick](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/hbk_hfk-exchange.md) |
 | 06 | 21.05. | [Freelancing w/ Bettina Pelz](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/inputs/07_conditions.md) |
 | 07 | 28.05. | [Stammtisch w/ Mika & Toni](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/inputs/06_collaboration.md) |
-| 08 | 04.06. | [Professionalisation](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/inputs/08_professionalisation.md) |
+| 08 | 04.06. | [Exhibiting & Schönste deutsche Bücher](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/inputs/08_professionalisation.md) |
 | 09 | 18.06. | [TBD – Exhibition?](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/inputs/09_tbd.md) |
 | 10 | 25.06. | [**Final Presentation**](https://github.com/design-hfkbremen/S26_das-grosse-kennenlernen/blob/main/inputs/10_presentation.md) |
