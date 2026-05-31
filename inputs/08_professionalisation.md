@@ -1,10 +1,16 @@
 # Presenting
 
 ## Schedule
-- 10:00–10:15 | Clean-up / plan final presentation
+- 10:00–10:15 | Admin
 - 10:15–11:00 | Input: Exhibitions & book deep-dive
 - 11:00–12:00 | Official visit
 - 17:00–19:00 | Blind Drawing w/ Nazanin, Eunhye, Yurim 
+
+### Admin
+- Clean-up
+- No course on 11.06.
+- Plan tbd input 18.06.
+- Plan final presentation
 
 ### References from the talk w/ Alvin Ashiatey:
 - [Alvin Ashiatey](https://alvinashiatey.com/)
