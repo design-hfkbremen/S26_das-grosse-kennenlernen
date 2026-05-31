@@ -1,8 +1,9 @@
 # Presenting
 
 ## Schedule
-- 10:00–10:45 | Clean-Up, Input: Exhibitions & Book Deep-Dive
-- 11:00–12:00 | Official Visit
+- 10:00–10:15 | Clean-up / plan final presentation
+- 10:15–11:00 | Input: Exhibitions & book deep-dive
+- 11:00–12:00 | Official visit
 - 17:00–19:00 | Blind Drawing w/ Nazanin, Eunhye, Yurim 
 
 ### References from the talk w/ Alvin Ashiatey:
