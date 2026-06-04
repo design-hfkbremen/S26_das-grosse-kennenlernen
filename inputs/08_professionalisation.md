@@ -7,9 +7,9 @@
 - 17:00–19:00 | Blind Drawing w/ Nazanin, Eunhye, Yurim 
 
 ### Admin
-- Clean-up
-- No course on 11.06.
-- Plan tbd input 18.06.
+- 15.–17.06. | Hilfe für die Erste Hilfe | [Name / Kontakt / ...]
+- 11.06. | No course
+- 18.06. | TBD input or Aufnahmeprüfung
 - Plan final presentation
 
 ### References from the talk w/ Alvin Ashiatey:
